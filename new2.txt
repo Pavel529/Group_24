@@ -1,0 +1,4 @@
+FIO - Petrov Petr Petrovich,
+Vozrast - 29,
+Dom.jivotnoe - 1,
+Zarplata - 500.
