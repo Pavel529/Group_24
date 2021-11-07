@@ -4,4 +4,9 @@
 	<lastname>Petrov</lastname>
 	<pets>1</pets>
 	<salary>500</salary>
+	<movie>The Lodr of the Rings</movie>
+	<series>Dexter</series>
+	<food>Carbonara Paste</food>
+	<season>summer</season>
+	<country>Japan</country>
 </my_information>
