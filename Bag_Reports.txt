@@ -1,0 +1,11 @@
+1. Description;
+2. Project name;
+3. Module;
+4. Build version;
+5. Severity;
+6. Priority;
+7. Bag status;
+8. Author;
+9. Appointment;
+10. Environment;
+11. Attached files.
