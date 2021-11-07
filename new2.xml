@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<my_information>
+	<firstname>Pavel</firstname>
+	<lastname>Petrov</lastname>
+	<pets>1</pets>
+	<salary>500</salary>
+</my_information>
